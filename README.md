@@ -1,5 +1,5 @@
 # Vehicle Configurator 
-CTIS-221 Term Project
+CTIS221 Term Project
 
   A group project done by Erdem Sert (@erdemsert), Uğur Ata Dargün (@ugurdargun) and Murat Alkan (@MuratAlkanW) in NetBeans IDE
 
