@@ -1,7 +1,7 @@
 # Vehicle Configurator 
 CTIS221 Term Project
 
-  A group project done by Erdem Sert (@erdemsert), Uğur Ata Dargün (@ugurdargun) and Murat Alkan (@MuratAlkanW) in NetBeans IDE
+  A group project done by Erdem Sert (@erdemsert), Uğur Ata Dargün (@ugurdargun) and Murat Alkan (@muratalkan) in NetBeans IDE
 
 # About This Project
 It is all about building your own vehicle. The user can
