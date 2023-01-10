@@ -8,4 +8,4 @@ Vehicle Configurator enables you to build your own vehicle.
 - Select a vehicle brand and a vehicle type (car, truck, bus)
 - Configure your vehicle by changing its features such as engine, wheels, color or etc.
 
-**To Run** -> (\dist\VehicleConfigurator.jar)
+**Run** -> (dist/VehicleConfigurator.jar)
