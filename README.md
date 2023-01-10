@@ -1,11 +1,11 @@
 # Vehicle Configurator 
-CTIS221 Term Project
+CTIS221 - Term Project
 
-  A group project done by Erdem Sert (@erdemsert), Uğur Ata Dargün (@ugurdargun) and Murat Alkan (@muratalkan) in NetBeans IDE
+A group project developed by Erdem Sert (@erdemsert), Uğur Ata Dargün (@ugurdargun) and Murat Alkan (@muratalkan) in NetBeans IDE.
 
-# About This Project
-It is all about building your own vehicle. The user can
-select some components of Car, Truck or Bus for different brands, which s/he is willing to
-purchase, such as engine, wheels, color or etc.
-#
-- **To Run** -> (\dist\VehicleConfigurator.jar)
+## Features
+Vehicle Configurator enables you to build your own vehicle.
+- Select a vehicle brand and a vehicle type (car, truck, bus)
+- Configure your vehicle by changing its features such as engine, wheels, color or etc.
+
+**To Run** -> (\dist\VehicleConfigurator.jar)
