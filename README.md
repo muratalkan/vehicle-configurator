@@ -11,4 +11,4 @@ Vehicle Configurator lets you build your own vehicle.
 Murat Alkan, Erdem Sert and Uğur Ata Dargün
 
 ## License
-Licensed under the [MIT License](LICENSE.md) 2021 - [Murat Alkan](https://github.com/muratalkan)
+Licensed under the [MIT License](LICENSE) 2021 - [Murat Alkan](https://github.com/muratalkan)
